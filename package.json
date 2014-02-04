@@ -1,0 +1,11 @@
+{
+  "name": "lib-npkg-resolve",
+  "version": "0.0.0",
+  "description": "module path resolver for npkg",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Jacob Groundwater <groundwater@gmail.com>",
+  "license": "MIT"
+}
